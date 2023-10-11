@@ -19,3 +19,8 @@ These instructions will help you get a copy of AwesomeApp up and running on your
 ### Prerequisites
 
 List any prerequisites or dependencies that need to be installed, including versions.
+
+## Support
+
+If you have questions or need assistance, you can reach out to [Your Name](https://github.com/yourusername).
+
